@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/GiselaHurtado/Mi-Pizza-Java/issues"
   },
-  "homepage": "https://github.com/GiselaHurtado/Mi-Pizza-Java#readme",
-  "dependencies": {
-    "pkg": "^5.8.1"
-  }
+  "homepage": "https://github.com/GiselaHurtado/Mi-Pizza-Java#readme"
 }
