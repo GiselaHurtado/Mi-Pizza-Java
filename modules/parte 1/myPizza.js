@@ -21,7 +21,7 @@ function añadirHarinaYSal() {
 }
 
 function amasarMasa() {
-    console.log('Amasar bien hasta que deje de ser pegajosa');
+    console.log('Amasar bien hasta que la masa deje de ser pegajosa');
 }
 
 function dividirMasa() {
